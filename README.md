@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=250&section=header&text=Hello!&fontSize=90&theme=cobalt" />
 </p>
 
-<h1 align="center">Hi, I'm Brandon Tripp</h1>
+<h1 align="center">I'm Brandon Tripp</h1>
 <h3 align="center">A backend developer specializing in Elixir</h3>
 
 - 🔭 I’m currently working on [Elixir Payment Server](https://github.com/Brandon-G-Tripp/elixir-payment-server)
