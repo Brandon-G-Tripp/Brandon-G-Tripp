@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">I'm Brandon Tripp</h1>
-<h3 align="center">A backend developer specializing in Elixir</h3>
+<h3 align="center">A Full Stack developer specializing in JavaScript, Elixir, and Go</h3>
 
-- 🔭 I’m currently working on [Elixir Payment Server](https://github.com/Brandon-G-Tripp/elixir-payment-server)
+- 🔭 I’m currently working on [Meet Near Me](https://github.com/meetnearme)
 
-- 🌱 I’m currently learning **Learn-Elixir Course, SQL**
+- 🌱 I’m currently learning **AWS Serverless Stack, Apache Kafka, SQL**
 
 - 📫 How to reach me **brandongtripp@gmail.com**
 
